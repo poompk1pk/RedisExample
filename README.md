@@ -10,7 +10,11 @@
 1. Download the redis file on github `Redis-x64-3.x.zip`
 2. Extract zip file
 3. Go to redis directory
-4. Create run.bat `redis-server.exe redis.windows.conf`
+4. Create run.bat 
+   ```
+   redis-server.exe redis.windows.conf
+   pause
+   ```
 
 ## Installing on Linux
 ### Centos
