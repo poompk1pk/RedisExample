@@ -48,3 +48,6 @@ run `redis-cli.exe`
 ```
 redis-cli
 ```
+
+## Docker
+[https://hub.docker.com/_/redis](https://hub.docker.com/_/redis)
