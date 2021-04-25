@@ -1,11 +1,11 @@
 # RedisExample for testing
 
 # Installing on Window/Linux
-* [Window](#Installing on window)
+* [Window](#Installing on Linux)
 * [Linux](#Installing on Linux)
 
 ## Installing on window
-[![Download]](https://github.com/microsoftarchive/redis/releases)
+[Download](https://github.com/microsoftarchive/redis/releases)
 
 1. Download the redis file on github `Redis-x64-3.x.zip`
 2. Extract zip file
