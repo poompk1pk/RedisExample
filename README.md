@@ -1,7 +1,7 @@
 # RedisExample for testing
 
 # Installing on Window/Linux
-* [Window](#Installing on window)
+* [Window](#Installing-on-window)
 * [Linux](#Installing-on-Linux)
 
 ## Installing on window
