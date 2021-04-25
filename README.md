@@ -1,8 +1,8 @@
 # RedisExample for testing
 
 # Installing on Window/Linux
-* [Window](#Installing on Linux)
-* [Linux](#Installing on Linux)
+* [Window](#Installing-on-Linux)
+* [Linux](#Installing-on-Linux)
 
 ## Installing on window
 [Download](https://github.com/microsoftarchive/redis/releases)
